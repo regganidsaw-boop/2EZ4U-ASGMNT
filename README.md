@@ -2,8 +2,6 @@
 
 Aplikasi desktop berbasis Python yang dikembangkan untuk proyek mata kuliah **Struktur Data & Analisa Algoritma (EC234303)**. Proyek ini menerapkan berbagai struktur data dan algoritma untuk mengelola pesanan, memproses antrean, melakukan pengurutan, serta membandingkan efisiensi operasi.
 
-Repository: [2EZ4U-ASGMNT](https://github.com/regganidsaw-boop/2EZ4U-ASGMNT)
-
 ---
 
 ## Daftar Isi
@@ -298,4 +296,4 @@ Dokumentasi dapat dilengkapi dengan tangkapan layar antarmuka, hasil pengujian, 
 
 ---
 
-**2EZ4U — Struktur Data & Analisa Algoritma (EC234303)**
+## Dokumentasi Proyek
