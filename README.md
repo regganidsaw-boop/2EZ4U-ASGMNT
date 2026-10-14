@@ -1,4 +1,4 @@
-# 2EZ4U — Aplikasi Pengelolaan Pesanan
+# 2EZ4U
 
 Aplikasi desktop berbasis Python yang dikembangkan untuk proyek mata kuliah **Struktur Data & Analisa Algoritma (EC234303)**. Proyek ini menerapkan berbagai struktur data dan algoritma untuk mengelola pesanan, memproses antrean, melakukan pengurutan, serta membandingkan efisiensi operasi.
 
