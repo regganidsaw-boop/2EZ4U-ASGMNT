@@ -266,28 +266,6 @@ Nama dan susunan kolom yang digunakan saat pemrosesan harus mengikuti format dat
 
 ---
 
-## Git dan Kontribusi
-
-Proyek ini menggunakan Git untuk version control dan GitHub untuk penyimpanan repository online.
-
-Alur dasar untuk mengirim perubahan:
-
-```bash
-git status
-git add .
-git commit -m "Deskripsi perubahan"
-git push
-```
-
-- `git status` memeriksa perubahan pada repository.
-- `git add .` menyiapkan perubahan untuk commit.
-- `git commit` menyimpan perubahan ke riwayat Git lokal.
-- `git push` mengirim commit ke repository GitHub.
-
-Periksa daftar perubahan sebelum menjalankan `git add .`. Jangan menyertakan token, kata sandi, atau berkas sensitif ke repository.
-
----
-
 ## Catatan Pengembangan
 
 README ini mendokumentasikan struktur dan fitur utama M1–M3 yang berkaitan dengan proyek. Petunjuk menjalankan aplikasi dan rincian dataset perlu disesuaikan jika entry point, nama berkas, atau format data berubah.
