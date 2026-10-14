@@ -275,3 +275,9 @@ Dokumentasi dapat dilengkapi dengan tangkapan layar antarmuka, hasil pengujian, 
 ---
 
 ## Dokumentasi Proyek
+
+*Screenshot:*
+
+| M1: Array dan Linked List | M2: Stack dan Queue | M3: Sort dan Search |
+|---|---|---|
+| ![M1](docu/M1.jpg) | ![M2](docu/M1.jpg) | ![M3](docu/M3.jpg) |
