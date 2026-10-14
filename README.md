@@ -280,7 +280,4 @@ Dokumentasi dapat dilengkapi dengan tangkapan layar antarmuka, hasil pengujian, 
 
 | M1: Array dan Linked List | M2: Stack dan Queue | M3: Sort dan Search |
 |---|---|---|
-| <img width="1920" height="1015" alt="m1" src="https://github.com/user-attachments/assets/c46262a9-27ae-4c17-b4fe-1ee3e7867ec2" />
- | <img width="1920" height="1015" alt="m2" src="https://github.com/user-attachments/assets/41abdcc2-b0fc-4f4c-946b-9b2dfc3c7ff5" />
- | <img width="1920" height="1011" alt="m3" src="https://github.com/user-attachments/assets/48456a3e-9dbd-4136-830c-7e892f7c670d" />
- |
+| <img width="1920" height="1015" alt="m1" src="https://github.com/user-attachments/assets/c46262a9-27ae-4c17-b4fe-1ee3e7867ec2" /> | <img width="1920" height="1015" alt="m2" src="https://github.com/user-attachments/assets/41abdcc2-b0fc-4f4c-946b-9b2dfc3c7ff5" /> | <img width="1920" height="1011" alt="m3" src="https://github.com/user-attachments/assets/48456a3e-9dbd-4136-830c-7e892f7c670d" /> |
